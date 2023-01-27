@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arorashu93" target="blank"><img src="https://img.shields.io/twitter/follow/arorashu93?logo=twitter&style=for-the-badge" alt="arorashu93" /></a> </p>
 
-- 🌱 I’m currently learning **React Advance**
+- 🌱 I’m currently learning **Node JS,MongoDB and Express**
 
 - 💬 Ask me about **Javascript**
 
