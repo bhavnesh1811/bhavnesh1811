@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhavnesh Arora</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavnesh1811&label=Profile%20views&color=0e75b6&style=flat" alt="bhavnesh1811" /> </p>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavnesh1811&theme=onedark" alt="bhavnesh1811" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/arorashu93" target="blank"><img src="https://img.shields.io/twitter/follow/arorashu93?logo=twitter&style=for-the-badge" alt="arorashu93" /></a> </p>
+<img width="400" align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="coding"/>
 
 - 🌱 I’m currently learning **Node JS,MongoDB and Express**
 
@@ -14,6 +12,14 @@
 - 📫 How to reach me **erbhavnesharora@gmail.com**
 
 - 📫 My Portfolio:-https://bhavnesh1811.github.io/
+    
+<br/><br/><br/><br/>
+
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=bhavnesh1811&label=Profile%20views&color=0e75b6&style=flat" alt="bhavnesh1811" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavnesh1811&theme=onedark" alt="bhavnesh1811" /></a> </p>
+
+<p align="left" > <a href="https://twitter.com/arorashu93" target="blank"><img src="https://img.shields.io/twitter/follow/arorashu93?logo=twitter&style=for-the-badge" alt="arorashu93" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
