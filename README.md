@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node JS,MongoDB and Express**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **HTML**,**CSS**,**Javascript**,**React**,**Redux**
 
 - 📫 How to reach me **erbhavnesharora@gmail.com**
 
