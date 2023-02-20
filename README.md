@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bhavnesh Arora</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
+👋 Hi there! I'm Bhavnesh Arora, A full Stack Web Developer with a passion for developing creative websites.
 
+🚀 I love building and creating things, and I'm always looking for ways to innovate and improve. You can find my latest projects and contributions on my GitHub profile.
 <br/>
 
 <img width="400" align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="coding"/>
