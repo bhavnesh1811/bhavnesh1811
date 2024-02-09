@@ -74,8 +74,6 @@
 
 ### 📊 My Github Stats:
 
-<a href="https://github.com/bhavnesh1811/contribution"><img alt="Bhavnesh Arora's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=bhavnesh1811&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavnesh1811&show_icons=true&locale=en&layout=compact" alt="bhavnesh1811" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavnesh1811&" alt="bhavnesh1811" /></p>
