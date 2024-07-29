@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhavnesh Arora</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
-👋 Hi there! I'm Bhavnesh Arora, A full Stack Web Developer with a passion for developing creative websites.
+👋 Hi there! I'm Bhavnesh Arora, A motivated and skilled Software Development Engineer with more than 1 year of working experience. Gained valuable skills as an SDE-1 at Vivahit. Good at coding, solving problems and working well with teams to create quality software. Strong analytical skills and eager to keep learning and growing in the field.
 
 🚀 I love building and creating things, and I'm always looking for ways to innovate and improve. You can find my latest projects and contributions on my GitHub profile.
 <br/>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node JS,MongoDB and Express**
 
-- 💬 Ask me about **HTML**,**CSS**,**Javascript**,**React**,**Redux**
+- 💬 Ask me about **HTML**,**CSS**,**Javascript**,**React**,**Redux**,**NEXT JS**
 
 - 📫 How to reach me **erbhavnesharora@gmail.com**
 
